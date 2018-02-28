@@ -407,6 +407,9 @@ textarea {
   font-weight: normal;
   font-style: normal; }
 
+body {
+  font-size: 16px; }
+
 ::-moz-selection {
   background: #333;
   color: #fff;
